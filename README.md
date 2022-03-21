@@ -3,4 +3,4 @@ API REST - series  ANGULAR CLI
 
 # Deploy Site
 
-https://api-series-irene.netlify.app/series
+https://api-series-irene.netlify.app
